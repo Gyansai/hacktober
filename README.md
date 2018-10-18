@@ -1,2 +1,2 @@
-# hacktober
-hacktober fest
+# Hacktober
+Hacktober fest is here now!
